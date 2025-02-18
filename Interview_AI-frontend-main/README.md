@@ -1,6 +1,6 @@
 # Interview AI
 
-Interview AI is a comprehensive platform designed to streamline recruitment processes, enhance user career development, and provide AI-powered mock interviews and career coaching. The platform offers distinct roles and tailored features for Admins, Users, and Recruiters witch is available on https://interview-ai-frontend-0ogz.onrender.com/
+Interview AI is a comprehensive platform designed to streamline recruitment processes, enhance user career development, and provide AI-powered mock interviews and career coaching. The platform offers distinct roles and tailored features for Admins, Users, and Recruiters witch is available 
 
 ![User Dashboard](./public/assets/user-dashboard.png).
 
@@ -55,7 +55,7 @@ Interview AI is a comprehensive platform designed to streamline recruitment proc
 ## 🚀 Installation
 - Clone the Repository
 ```
-git clone https://github.com/swiftrut/Interview_AI-frontend.git
+
 ```
 - Install dependencies
 ```
