@@ -4,7 +4,7 @@ Overview
 
 The Interview with AI project is a web-based application built using Node.js and Express.js. It provides three user panels—Admin, User, and Recruiter—to streamline the process of skill development, course enrollment, and interview management.
 
-There is link of deployed backend "https://interview-ai-backend-etzo.onrender.com"
+
 
 # Features
 
@@ -107,7 +107,7 @@ The **backend** of the Society Management System is responsible for handling bus
 
 **Clone the repository:**
 
-git clone https://github.com/swiftrut/Interview_AI-backend
+
 
 
 **Install dependencies:**
